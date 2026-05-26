@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SUO GUIDE",
+    "description": "",
+    "home_page_url": "https://suo/guide",
+    "feed_url": "https://suo/guide/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "GHOST"
+    },
+    "items": [
+    ]
+}
